@@ -1,0 +1,37 @@
+<catalog>
+  <film>
+      <name>Джентельмены</name>
+      <autor>Гай Ричи</autor>
+      <country>Великобритания,США</country>
+      <date>2019</date>
+      
+  </film>
+  <film>
+      <name>Легенда</name>
+      <autor>Брайан Хелгеленд</autor>
+      <country>Великобритания,Франция</country>
+      <date>2015</date>
+      
+  </film>
+  <film>
+      <name>Зеленая книга</name>
+      <autor>Питер Фаррелли</autor>
+      <country>США</country>
+      <date>2018</date>
+      
+  </film>
+  <film>
+      <name>Куда приводят мечты</name>
+      <autor>Уорд Винсент</autor>
+      <country>США,Новая Зеландия</country>
+      <date>1998</date>
+      
+  </film>
+  <film>
+      <name>Достучаться до небес</name>
+      <autor>Томас Ян</autor>
+      <country>Германия</country>
+      <date>1997</date>
+      
+  </film>
+</catalog>
